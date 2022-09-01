@@ -1,1 +1,1 @@
-display the contet list
+script that changes the working directory to the user’s home directory
